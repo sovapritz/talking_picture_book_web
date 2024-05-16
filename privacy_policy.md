@@ -13,7 +13,6 @@
 
 [Firebase Analytics（Google Inc.）](https://policies.google.com/privacy?hl=ja%EF%BB%BF)
 
-
 ## 個人情報の管理
 当法人は、お客さまの個人情報を正確かつ最新の状態に保ち、個人情報への不正アクセス・紛失・破損・改ざん・漏洩などを防止するため、安全対策を実施し個人情報の厳重な管理を行ないます。
 
