@@ -32,4 +32,4 @@
 著作権その他一切の権利は、当方又は権利を有する第三者に帰属します。
 
 ## 連絡先
-- E-mail: eki.locky@lisra.jp
+- E-mail: treetrunk-app@outlook.com
